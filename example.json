@@ -15,7 +15,8 @@
         "title": "First item",
         "body": "Here is the first item",
         "_maxCharacters": 10,
-        "moreText": "More"
+        "moreText": "More",
+        "itemAriaLabel": "First item"
     },
     "second": {
         "src": "course/en/images/origami-menu-two.jpg",
@@ -23,7 +24,8 @@
         "title": "Second item",
         "body": "Here is the second item",
         "_maxCharacters": 50,
-        "moreText": "More"
+        "moreText": "More",
+        "itemAriaLabel": "Second item"
     },
     "control": {
         "showText": "Show",
